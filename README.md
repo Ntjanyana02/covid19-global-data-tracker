@@ -1,5 +1,4 @@
 # covid19-global-data-tracker
-# COVID-19 Global Data Tracker
 
 Tracks and visualizes global COVID-19 metrics using pandas and matplotlib.
 
